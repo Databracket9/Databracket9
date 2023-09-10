@@ -10,9 +10,6 @@
 <h3 align="center"><p>"In my journey, a long path lies ahead. Much to accomplish I still have, hmm."</p><img src="https://github-readme-stats.vercel.app/api?username=databracket9" alt="Profile Stats" /></h3>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="center"><p>"Programming languages, I have worked on, hmm. Listed them, to showcase my path and interests in the world of code."<p/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=databracket9" alt="Top Langs" /></h3>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="center"><p>Explore a diverse set of hands-on demos for Data Engineering, DevOps, and MLOps.</p><a href="https://www.youtube.com/channel/UC1otT3oYubDHeGsjix9LVCA" target="_blank"><img src="https://youtube-stats-card.vercel.app/api?channelid=UC1otT3oYubDHeGsjix9LVCA" alt="Youtube Stats" /></a></h3>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
